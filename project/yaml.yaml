@@ -1,0 +1,4 @@
+repos:
+  - repo: https://github.com/repo.git
+    rev: 2
+    hooks: b

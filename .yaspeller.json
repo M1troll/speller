@@ -1,0 +1,14 @@
+{
+    "lang": "en",
+    "findRepeatWords": true,
+    "fileExtensions": [
+      ".md",
+      ".rst"
+    ],
+    "excludeFiles": [
+        "*.py",
+        "*.yaml",
+        ".py",
+        ".yaml"
+    ]
+}
